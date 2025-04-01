@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550244615952",
+    "project_id": "ejemplologin-320a9",
+    "storage_bucket": "ejemplologin-320a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550244615952:android:fa8dceddbd14e65e230795",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practica12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuoxyzZXBTsTyCLzIjpDdecHwQFYspUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
